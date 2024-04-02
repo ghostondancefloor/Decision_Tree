@@ -26,4 +26,4 @@ Ce projet présente une implémentation de l'algorithme ID3 pour la construction
 
 ## Résultats
 
-Après l'exécution du code, vous obtiendrez les arbres de décision construits pour chaque jeu de données, ainsi que les matrices de confusion pour l'évaluation de la performance de l'algorithme sur les données d'apprentissage et de prédiction.
+Après l'exécution du code, vous obtiendrez les arbres de décision construits pour chaque jeu de données, ainsi que les matrices de confusion pour l'évaluation de la performance de l'algorithme sur les données d'apprentissage.
