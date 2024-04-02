@@ -12,13 +12,13 @@ Ce projet présente une implémentation de l'algorithme ID3 pour la construction
 
 1. Cloner le dépôt:
     ```sh
-    git clone https://github.com/votre-utilisateur/projet-arbre-de-decision.git
+    git clone https://github.com/votre-utilisateur/Decision_Tree.git
     ```
 
 2. Créer et activer l'environnement virtuel:
     ```sh
     python -m venv venv
-    cd VEnv/Scripts
+    cd venv/Scripts
     ./activate
     ```
 
