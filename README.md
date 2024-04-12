@@ -27,3 +27,7 @@ Ce projet présente une implémentation de l'algorithme ID3 et C4.3 pour la cons
 ## Résultats
 
 Après l'exécution du code, vous obtiendrez les arbres de décision construits pour chaque jeu de données, ainsi que les matrices de confusion pour l'évaluation de la performance de l'algorithme sur les données d'apprentissage.
+
+## Ressources
+Algorithme ID3 : https://fr.wikipedia.org/wiki/Algorithme_ID3
+chatgpt 
