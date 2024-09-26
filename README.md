@@ -30,4 +30,3 @@ Après l'exécution du code, vous obtiendrez les arbres de décision construits 
 
 ## Ressources
 Algorithme ID3 : https://fr.wikipedia.org/wiki/Algorithme_ID3
-chatgpt 
